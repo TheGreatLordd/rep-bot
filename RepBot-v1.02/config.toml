@@ -1,0 +1,20 @@
+[bot]
+prefix = "."
+db_file = "rep.db"
+
+[reputation]
+cooldown = 1800
+cooldown_unique = 30
+give_minutes_required = 15
+reply_cooldown = 1400
+
+[leaderboard]
+slots_shown = 25
+
+[reputation.roles]
+-25 = "ROLE-NAME"
+-10 = "ROLE-NAME"
+0 = "ROLE-NAME"
+25 = "ROLE-NAME"
+50 = "ROLE-NAME"
+100 = "ROLE-NAME"

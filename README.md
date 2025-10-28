@@ -1,8 +1,5 @@
-RepBot - Discord Reputation Bot
-===============================
+RepBot (V1.02)
 
-Description:
--------------
 RepBot is a Discord bot that allows users to give and track reputation points.
 It supports commands for giving reputation, viewing leaderboards, 
 automatic reputation role assignment, and administrative commands 
